@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 29 18:03:28 2022
 
-@authors: Bryson CarrollSSS
+@authors: Bryson Carroll
 @email: jbc2@email.sc.edu
 
 Purpose: We have created a decision tree along with a graph of the feature importances that
